@@ -25,8 +25,8 @@ https://testnet.explorer.ordzaar.com/inscription/b78a20e5a1691edb7f335ff24481490
 ## Solution
 Code will be open-sourced and a solution for deploying 3D NFTs on Bitcoin will be provided if requested by the community.
   
-[banner-img]: https://raw.githubusercontent.com/UniWorldsHQ/3d-nft-preview/main/banner.jpg
+[banner-img]: https://raw.githubusercontent.com/UniWorldsHQ/3d-nft-preview/main/image/banner.jpg
 [website-link]: https://uniworlds.io/
-[nft-with-text]: https://github.com/UniWorldsHQ/3d-nft-preview/blob/main/nft-with-text.gif?raw=true
-[nft-without-text]: https://github.com/UniWorldsHQ/3d-nft-preview/blob/main/nft-without-text.gif?raw=true
+[nft-with-text]: https://raw.githubusercontent.com/UniWorldsHQ/3d-nft-preview/main/image/nft-with-text.gif
+[nft-without-text]: https://raw.githubusercontent.com/UniWorldsHQ/3d-nft-preview/main/image/nft-without-text.gif
 
