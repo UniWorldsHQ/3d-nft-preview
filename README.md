@@ -10,6 +10,10 @@
 ## Introduction
 UniWorlds NFT Preview: 3D visualization powered by Three.js. Text on NFTs is modifiable.
 
+## Test Result
+The testnet confirmed the NFT block after a 15-hour wait.</br>
+https://testnet.explorer.ordzaar.com/inscription/b78a20e5a1691edb7f335ff244814901ce51ad4645f4919e013883b5904c3874i0
+
 ## Preview
 <!-- LINK -->
 ![image][nft-without-text] </br>
